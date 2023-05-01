@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsquid110&show_icons=true&theme=radical)
+<a href="(https://www.notion.so/hammang/3cb53dcec99a499389a10c52aea3355b)" target="_blank"><img src="https://img.shields.io/badge/blue?style=square&logo=로고&logoColor=green"/></a>
